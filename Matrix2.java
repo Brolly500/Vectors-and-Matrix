@@ -21,7 +21,7 @@ public class Matrix2 {
         print(mul(a, 7));
         print(matrixmult(a, b));
         System.out.println(opred(a));
-        System.out.println(revers(a));
+        print(revers(a));
         print(sum(a,sum(a,sum(a,sum(a,a)))));
 
     }
